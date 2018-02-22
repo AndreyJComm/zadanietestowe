@@ -1,0 +1,19 @@
+{
+    "name": "vagrant/html",
+    "authors": [
+        {
+            "name": "Andrey Makagon",
+            "email": "andrey.makagon@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23"
+    },
+    "autoload": {
+        "psr-4": {
+            "Engine\\" : "engine",
+            "Controller\\": "Controller",
+            "Model\\": "Model"
+        }
+    }
+}

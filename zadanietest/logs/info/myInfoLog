@@ -1,0 +1,8 @@
+[2018-02-22 12:04:26] myInfoLogger.INFO: Dostalem zdjecie: {"Nazwa Pliku:":"mojefoto1ddttd0.jpg","Wymiary: ":[480,640]} []
+[2018-02-22 12:04:26] myInfoLogger.INFO: Zmienilem rozmiar: {"Nazwa Pliku:":"mojefoto1ddttd0.jpg","Wymiary: ":["34","545"],"Imagesize:":"22876bajtów"} []
+[2018-02-22 12:16:09] myInfoLogger.INFO: Dostalem zdjecie: {"Nazwa Pliku:":"mojefotott.jpg","Wymiary: ":[480,640]} []
+[2018-02-22 12:16:09] myInfoLogger.INFO: Zmienilem rozmiar: {"Nazwa Pliku:":"mojefotott.jpg","Wymiary: ":["123","123"],"Imagesize:":"19729 bajtów"} []
+[2018-02-22 12:18:20] myInfoLogger.INFO: Dostalem zdjecie: {"Nazwa Pliku:":"photo.jpg","Wymiary: ":[1024,685]} []
+[2018-02-22 12:18:20] myInfoLogger.INFO: Zmienilem rozmiar: {"Nazwa Pliku:":"photo.jpg","Wymiary: ":["500","500"],"Imagesize:":"175237 bajtów"} []
+[2018-02-22 12:18:53] myInfoLogger.INFO: Dostalem zdjecie: {"Nazwa Pliku:":"mojefotott.jpg","Wymiary: ":[480,640]} []
+[2018-02-22 12:18:53] myInfoLogger.INFO: Zmienilem rozmiar: {"Nazwa Pliku:":"mojefotott.jpg","Wymiary: ":["234","234"],"Imagesize:":"57210 bajtów"} []
